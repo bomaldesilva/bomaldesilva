@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome !!!
 
 <!--
 **bomaldesilva/bomaldesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning flutter and django
+  
 # Hi there, I'm Bomal de Silva! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bomaldesilva&color=blue)
