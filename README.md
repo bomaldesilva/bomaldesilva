@@ -66,9 +66,10 @@ I'm a passionate developer with a keen interest in full-stack development and mo
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bomaldesilva&theme=dark)
 
-## Activity Graph
+## My GitHub Activity
 
 ![GitHub Activity Chart](https://activity-graph.herokuapp.com/graph?username=bomaldesilva&theme=react&hide_border=true)
+
 
 
 
