@@ -52,8 +52,10 @@ I'm a passionate developer with a keen interest in [Your Areas of Interest, e.g.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/bomaldesilva)
-- [Twitter](https://twitter.com/bomaldesilva)
-- [Personal Website](https://bomaldesilva.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bomaldesilva](https://www.linkedin.com/in/bomal-de-silva-419a4630b))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/yourusername](https://www.instagram.com/bds_78/?igsh=ejRlcGRzdXU3eTlq#))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/yourphonenumber](https://api.whatsapp.com/qr/MBRKMWH5HLSKD1?autoload=1&app_absent=0))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://bomaldesilva.github.io](https://bomaldesilva.github.io/Portfolio-1.0/))
+
 
 
