@@ -55,6 +55,8 @@ I'm a passionate developer with a keen interest in full-stack development and mo
 
 ![Bomal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bomaldesilva&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bomaldesilva&theme=dark&layout=compact)
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bomal-de-silva-419a4630b)
