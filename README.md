@@ -62,6 +62,9 @@ I'm a passionate developer with a keen interest in full-stack development and mo
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/yourphonenumber](https://api.whatsapp.com/qr/MBRKMWH5HLSKD1?autoload=1&app_absent=0))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://bomaldesilva.github.io](https://bomaldesilva.github.io/Portfolio-1.0/))
 
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bomaldesilva&theme=dark)
 
 
 
