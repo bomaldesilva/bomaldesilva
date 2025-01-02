@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a passionate developer with a keen interest in [Your Areas of Interest, e.g., web development, machine learning, etc.]. I enjoy building innovative solutions and contributing to open-source projects.
+I'm a passionate developer with a keen interest in full-stack development, mobile app development. I enjoy building innovative solutions and contributing to open-source projects.
 
 ## Skills
 
