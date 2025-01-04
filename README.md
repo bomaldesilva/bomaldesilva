@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## About Me
 
 I'm a passionate developer with a keen interest in full-stack development and mobile app development. I enjoy building innovative solutions and contributing to open-source projects.
-
+click : [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bomaldesilva.github.io/Portfolio-1.0/)
 ## Skills
 
 ### Programming Languages
