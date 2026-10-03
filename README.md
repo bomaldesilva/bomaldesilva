@@ -1,76 +1,70 @@
-## welcome !!!
+<h1 align="center">Bomal De Silva</h1>
 
-<!--
-**bomaldesilva/bomaldesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Information Systems Undergraduate · Software Engineering Intern Candidate</strong><br>
+  University of Colombo School of Computing · Sri Lanka
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://bomaldesilva.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-7C9DFF?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/bomal-de-silva-419a4630b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:bomaldsilva@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square" alt="Email Bomal"></a>
+  <a href="https://bomaldesilva.pages.dev/assets/bomal-de-silva-resume.pdf"><img src="https://img.shields.io/badge/Resume-333333?style=flat-square" alt="View resume"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning flutter and django
-  
-# Hi there, I'm Bomal de Silva! 👋
+## About me
 
-![Profile Views](https://komarev.com/ghpvc/?username=bomaldesilva&color=blue)
+I'm an Information Systems undergraduate at **UCSC**, interested in **backend engineering, application architecture, and mobile development**. My academic and personal projects involve Java, Spring Boot, relational databases, Android, and systems programming.
 
-## About Me
+In group projects, I contribute as both a **team leader and system designer**, structuring application layers, planning user workflows, and coordinating development.
 
-I'm a passionate developer with a keen interest in full-stack development and mobile app development. I enjoy building innovative solutions and contributing to open-source projects.
- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bomaldesilva.github.io/Portfolio-1.0/)
-## Skills
+> **Seeking a software engineering internship** where I can contribute to a development team, strengthen my engineering skills, and build useful software.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## Selected projects
 
-### Frameworks and Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+| Project | Focus and contribution | Technologies / design |
+| --- | --- | --- |
+| **TaskFlow** | Built a project and issue management backend with authentication, role-based access, validation, and automated build and test workflows. | Java, Spring Boot, PostgreSQL, Docker, GitHub Actions |
+| **LegalConnect — In development** | Team leader and system designer for a legal consultation and lawyer practice management platform. Designed workflows for verification, bookings, document requests, reporting, and audit logs. | Three-tier architecture, MVC |
+| **[Microservice Architecture](https://github.com/bomaldesilva/MicroService-Architecture-Backend)** | Explores CRUD REST APIs, service discovery, and message-based communication between services. | Java, Spring Boot, Eureka, Kafka |
+| **Mirrored File System Simulator** | Led the team and designed an educational simulator with a custom B+ tree, mirrored virtual disks, copy-on-write updates, disk failover, and repair. | C++17, B+ trees, RAID 1, copy-on-write |
+| **Mobile Text Editor — Completed** | Developed an Android editor with Markdown, local file management, search and replace, undo/redo, and incremental version history. | Kotlin, Android |
+| **Store Handler V2.0** | Evolved a customer and order management application from MVC to layered architecture, separating presentation, business logic, and data access. | JavaFX, SQL, JDBC, Hibernate, JPA |
+| **C Network Server** | Implemented TCP client–server communication, including socket creation, binding, listening, connection handling, and data exchange. | C, sockets, TCP/IP |
+| **[Command Connect Military](https://github.com/bomaldesilva/Command-Connect-Military)** | Built a Java simulation of communication between a main station, tank, helicopter, and submarine using object-oriented design. | Java, OOP |
 
+Explore project details and system outlines on **[my portfolio](https://bomaldesilva.pages.dev/#projects)**.
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Technical toolkit
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Area | Technologies and concepts |
+| --- | --- |
+| **Languages** | Java, C++, C, TypeScript, JavaScript, Python, Kotlin, Dart, SQL, HTML, CSS |
+| **Backend and web** | Spring Boot, REST APIs, Angular, React, JavaFX |
+| **Mobile** | Android, Flutter |
+| **Databases and persistence** | PostgreSQL, MySQL, SQLite, JDBC, Hibernate, JPA, Room |
+| **Engineering foundations** | OOP, data structures and algorithms, SOLID, MVC, layered architecture, database design |
+| **Tools** | Git, GitHub, Docker, Maven, GitHub Actions, AWS |
+| **Networking and security fundamentals** | TCP/IP, socket programming, HTTP/HTTPS, authentication, authorization, TLS/SSL |
 
+**Currently learning:** Flutter and Django.
 
-## GitHub Stats
+## Education and learning
 
-![Bomal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bomaldesilva&show_icons=true&theme=radical)
+- **BSc in Information Systems — Undergraduate**, University of Colombo School of Computing. **GPA: 3.93/4.00**, with Director's List recognition in all completed semesters recorded in my CV.
+- **Richmond College, Galle** — G.C.E. Advanced Level, 2023: **3 A's**, district rank **9**, island rank **88**.
+- Additional learning through the **University of Moratuwa Full-Stack Developer Program**, CODL courses in Python, web development, and project management, and the **ICET Trainee Full-Stack Developer Program**.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bomaldesilva&theme=dark&layout=compact)
+## Leadership and interests
 
-## Let's Connect
+- **Secretary, UCSC Students' Union** — student coordination and community activities.
+- **Founder and President, Richmond College Technology Society** — established a student technology community and organized a technology day featuring a hackathon.
+- **Project team leadership** — led LegalConnect and the Mirrored File System Simulator, with responsibility for system design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bomal-de-silva-419a4630b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bds_78/?igsh=ejRlcGRzdXU3eTlq#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/MBRKMWH5HLSKD1?autoload=1&app_absent=0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bomaldesilva.pages.dev/#home)
+Outside software, I'm an **Airbnb host** with an interest in **travel and tourism**. Meeting guests and discovering different perspectives are part of what I enjoy beyond the screen.
 
+## Get in touch
 
-## GitHub Trophies
+I'm open to **software engineering internships** and opportunities to collaborate on backend, web, mobile, and systems projects.
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bomaldesilva&theme=dark)
-
-
-
-
-
-
+**[Portfolio](https://bomaldesilva.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/bomal-de-silva-419a4630b/)** · **[Email](mailto:bomaldsilva@gmail.com)**
